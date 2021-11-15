@@ -1,2 +1,2 @@
 # ilano
-Elon fans token
+Global and decentralized educational environment
